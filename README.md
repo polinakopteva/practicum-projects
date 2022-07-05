@@ -1,0 +1,9 @@
+These projects were completed during training at Yandex.Practicum crash course "Data Analyst".
+
+| Name of project | Description of project | Skills and tools | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Real-estate in Russia - analysis of real-estate ads](spb-real-estate) | Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. Data preprocessing has been carried out. Added new data. Histograms, boxplots, scatterplots are constructed| *python*, *pandas*, *matplotlib*, *seaborn* |
+| :---------------------- | :---------------------- | :---------------------- |
+| [Behavior of users of the mobile app based on selling groceries](logs-app-behaviour) | This startup sells food. We want to find out how the users of our mobile application behave. To achieve this goal, we will perform the following tasks: study the sales funnel and observe the results of A/A/B-experimental | *python*, *pandas*, *matplotlib*, *seaborn*, *scipy*, *plotly* |
+| :---------------------- | :---------------------- | :---------------------- |
+| [Study of the Stackoverflow service database](sql-stackoverflow-project) | In this study, we are working with the database of StackOverflow, a service of questions and answers about programming. StackOverflow is similar to a social network — users of the service ask questions, answer posts, leave comments and rate other answers. I examined the data provided, generated the required data uploads using SQL | *SQL* |
